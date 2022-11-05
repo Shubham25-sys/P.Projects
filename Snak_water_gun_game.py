@@ -1,3 +1,5 @@
+#Snake Water Gun game 🐍🌊🔫
+
 import random
 import emoji
 
